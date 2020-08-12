@@ -12,9 +12,9 @@ namespace Vidzy
         {
             var context = new VidzyEntities();
 
-            context.spAddVideo("Code with Mosh 1", DateTime.UtcNow.AddDays(-1), 2, 3);
-            context.spAddVideo("Code with Mosh 2", DateTime.UtcNow.AddDays(-2), 2, 3);
-            context.spAddVideo("Code with Mosh 3", DateTime.UtcNow.AddDays(-3), 2, 3);
+            context.AddVideo("Code with Mosh 4", DateTime.UtcNow.AddDays(-1), "Action", Classification.Platinum);
+            context.AddVideo("Code with Mosh 5", DateTime.UtcNow.AddDays(-2), "Action", Classification.Gold);
+            context.AddVideo("Code with Mosh 6", DateTime.UtcNow.AddDays(-3), "Action", Classification.Silver);
 
         }
     }

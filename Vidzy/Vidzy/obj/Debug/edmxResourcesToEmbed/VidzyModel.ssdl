@@ -32,7 +32,7 @@
   <Function Name="spAddVideo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="Name" Type="varchar" Mode="In" />
     <Parameter Name="ReleaseDate" Type="datetime" Mode="In" />
-    <Parameter Name="Genre" Type="tinyint" Mode="In" />
+    <Parameter Name="Genre" Type="varchar" Mode="In" />
     <Parameter Name="Classification" Type="tinyint" Mode="In" />
   </Function>
   <EntityContainer Name="VidzyModelStoreContainer">

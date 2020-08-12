@@ -10,3 +10,15 @@ D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Exercise1-Vidzy\Vidzy\Vi
 D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Exercise1-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
 D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Exercise1-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.exe
 D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Exercise1-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csprojAssemblyReference.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CoreCompileInputs.cache
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.CopyComplete
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\obj\Debug\Vidzy.pdb

@@ -4,9 +4,9 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="5beaecf399f44105b67f4b176039be89" Name="Diagram1">
-        <EntityTypeShape EntityType="VidzyModel.Genre" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="VidzyModel.Video" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+      <Diagram DiagramId="5beaecf399f44105b67f4b176039be89" Name="Diagram1" DisplayType="true">
+        <EntityTypeShape EntityType="VidzyModel.Genre" Width="1.5" PointX="0.75" PointY="1" />
+        <EntityTypeShape EntityType="VidzyModel.Video" Width="1.5" PointX="3" PointY="0.875" />
         <AssociationConnector Association="VidzyModel.FK_Videos_Genres" />
       </Diagram>
     </edmx:Diagrams>

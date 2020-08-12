@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Exercise1-Vidzy\Vidzy\Vidzy\VidzyModel.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\Tutorials\Code with Mosh Courses\Entity Framework\EF-Vidzy\Vidzy\Vidzy\VidzyModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
